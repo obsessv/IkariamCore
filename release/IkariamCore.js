@@ -3,7 +3,7 @@
 // @description		Framework for Ikariam userscript developers.
 // @namespace		IkariamCore
 // @author			Tobbe
-// @version			3.2.1
+// @version			3.2.2
 // @license			MIT License
 //
 // @name:de			Ikariam Core
