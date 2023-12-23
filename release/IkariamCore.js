@@ -2438,7 +2438,7 @@ function IkariamCore(is_scriptVersion, ii_scriptId, is_scriptName, is_scriptAuth
 		 * @type	{Array.<String>}
 		 */
 		Object.defineProperty(this, 'resourceNames', { get: function() {
-			return ['wood', 'wine', 'marble', 'glass', 'sulfur'];
+			return ['wood', 'wine', 'marble', 'crystal', 'sulfur'];
 		} });
 		
 		/**
