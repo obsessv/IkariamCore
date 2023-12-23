@@ -61,7 +61,7 @@
 		 * @type	{Array.<String>}
 		 */
 		Object.defineProperty(this, 'resourceNames', { get: function() {
-			return ['wood', 'wine', 'marble', 'glass', 'sulfur'];
+			return ['wood', 'wine', 'marble', 'crystal', 'sulfur'];
 		} });
 		
 		/**
